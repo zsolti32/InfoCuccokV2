@@ -1,0 +1,121 @@
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\Kutya.exe
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\Kutya.deps.json
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\Kutya.runtimeconfig.json
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\Kutya.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\Kutya.pdb
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\Google.Protobuf.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\MySql.Data.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\System.Text.Json.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\ZstdSharp.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\AI C#\Kutya\Kutya\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+E:\AI C#\Kutya\Kutya\obj\Debug\net8.0\Kutya.csproj.AssemblyReference.cache
+E:\AI C#\Kutya\Kutya\obj\Debug\net8.0\Kutya.GeneratedMSBuildEditorConfig.editorconfig
+E:\AI C#\Kutya\Kutya\obj\Debug\net8.0\Kutya.AssemblyInfoInputs.cache
+E:\AI C#\Kutya\Kutya\obj\Debug\net8.0\Kutya.AssemblyInfo.cs
+E:\AI C#\Kutya\Kutya\obj\Debug\net8.0\Kutya.csproj.CoreCompileInputs.cache
+E:\AI C#\Kutya\Kutya\obj\Debug\net8.0\Kutya.csproj.Up2Date
+E:\AI C#\Kutya\Kutya\obj\Debug\net8.0\Kutya.dll
+E:\AI C#\Kutya\Kutya\obj\Debug\net8.0\refint\Kutya.dll
+E:\AI C#\Kutya\Kutya\obj\Debug\net8.0\Kutya.pdb
+E:\AI C#\Kutya\Kutya\obj\Debug\net8.0\Kutya.genruntimeconfig.cache
+E:\AI C#\Kutya\Kutya\obj\Debug\net8.0\ref\Kutya.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\Kutya.exe
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\Kutya.deps.json
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\Kutya.runtimeconfig.json
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\Kutya.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\Kutya.pdb
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\Google.Protobuf.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\MySql.Data.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\System.Text.Json.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\ZstdSharp.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\obj\Debug\net8.0\Kutya.csproj.AssemblyReference.cache
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\obj\Debug\net8.0\Kutya.GeneratedMSBuildEditorConfig.editorconfig
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\obj\Debug\net8.0\Kutya.AssemblyInfoInputs.cache
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\obj\Debug\net8.0\Kutya.AssemblyInfo.cs
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\obj\Debug\net8.0\Kutya.csproj.CoreCompileInputs.cache
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\obj\Debug\net8.0\Kutya.csproj.Up2Date
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\obj\Debug\net8.0\Kutya.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\obj\Debug\net8.0\refint\Kutya.dll
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\obj\Debug\net8.0\Kutya.pdb
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\obj\Debug\net8.0\Kutya.genruntimeconfig.cache
+E:\3. C#WPF\Kutyák - éles vizsgafeladatsor\minta adatbázis-kezelés megoldás\Kutya\Kutya\obj\Debug\net8.0\ref\Kutya.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\Kutya.exe
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\Kutya.deps.json
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\Kutya.runtimeconfig.json
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\Kutya.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\Kutya.pdb
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\obj\Debug\net8.0\Kutya.csproj.AssemblyReference.cache
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\obj\Debug\net8.0\Kutya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\obj\Debug\net8.0\Kutya.AssemblyInfoInputs.cache
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\obj\Debug\net8.0\Kutya.AssemblyInfo.cs
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\obj\Debug\net8.0\Kutya.csproj.CoreCompileInputs.cache
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\obj\Debug\net8.0\Kutya.csproj.Up2Date
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\obj\Debug\net8.0\Kutya.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\obj\Debug\net8.0\refint\Kutya.dll
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\obj\Debug\net8.0\Kutya.pdb
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\obj\Debug\net8.0\Kutya.genruntimeconfig.cache
+C:\Users\C20MolnárZ\Desktop\15. éles vizsgafeladatsor - Kutyák\Minta adatbázis-kezeléses program\Kutya\Kutya\obj\Debug\net8.0\ref\Kutya.dll

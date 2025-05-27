@@ -1,0 +1,14 @@
+C:\Users\C20MolnárZ\source\repos\consoleAppKajak\consoleAppKajak\bin\Debug\net8.0\consoleAppKajak.exe
+C:\Users\C20MolnárZ\source\repos\consoleAppKajak\consoleAppKajak\bin\Debug\net8.0\consoleAppKajak.deps.json
+C:\Users\C20MolnárZ\source\repos\consoleAppKajak\consoleAppKajak\bin\Debug\net8.0\consoleAppKajak.runtimeconfig.json
+C:\Users\C20MolnárZ\source\repos\consoleAppKajak\consoleAppKajak\bin\Debug\net8.0\consoleAppKajak.dll
+C:\Users\C20MolnárZ\source\repos\consoleAppKajak\consoleAppKajak\bin\Debug\net8.0\consoleAppKajak.pdb
+C:\Users\C20MolnárZ\source\repos\consoleAppKajak\consoleAppKajak\obj\Debug\net8.0\consoleAppKajak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C20MolnárZ\source\repos\consoleAppKajak\consoleAppKajak\obj\Debug\net8.0\consoleAppKajak.AssemblyInfoInputs.cache
+C:\Users\C20MolnárZ\source\repos\consoleAppKajak\consoleAppKajak\obj\Debug\net8.0\consoleAppKajak.AssemblyInfo.cs
+C:\Users\C20MolnárZ\source\repos\consoleAppKajak\consoleAppKajak\obj\Debug\net8.0\consoleAppKajak.csproj.CoreCompileInputs.cache
+C:\Users\C20MolnárZ\source\repos\consoleAppKajak\consoleAppKajak\obj\Debug\net8.0\consoleAppKajak.dll
+C:\Users\C20MolnárZ\source\repos\consoleAppKajak\consoleAppKajak\obj\Debug\net8.0\refint\consoleAppKajak.dll
+C:\Users\C20MolnárZ\source\repos\consoleAppKajak\consoleAppKajak\obj\Debug\net8.0\consoleAppKajak.pdb
+C:\Users\C20MolnárZ\source\repos\consoleAppKajak\consoleAppKajak\obj\Debug\net8.0\consoleAppKajak.genruntimeconfig.cache
+C:\Users\C20MolnárZ\source\repos\consoleAppKajak\consoleAppKajak\obj\Debug\net8.0\ref\consoleAppKajak.dll
