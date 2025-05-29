@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myApp" >
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="angularjs.js" ></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body ng-controller="myCtrl" >
+    <div>
+        <h1>Norvégia</h1>
+        <div class="cards" ng-repeat=" i in myWelcome">
+
+            <div class="card" style="width: 18rem;">
+                <img src="img/{{i.img}}" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">{{i.title}}</h5>
+                  <p class="card-text">{{i.body}}</p>          
+                </div>
+              </div>
+
+
+        </div>
+    </div>
+        
+        <script>
+        let app = angular.module('myApp', []);
+        app.controller('myCtrl', function($scope, $http) {
+          $http.get("norway.json")
+          .then(function(response) {
+            $scope.myWelcome = response.data;
+            console.log($scope.myWelcome);
+          });
+        });
+        </script>
+</body>
+</html>
