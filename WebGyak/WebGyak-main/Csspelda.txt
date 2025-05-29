@@ -1,0 +1,100 @@
+1. Csatolja a style-main.css-t a HTML oldalhoz. 
+2. A sidebar-on belül található két twin osztályú elem, az egyik háttérszíne #2185C5, a 
+másik háttérszíne #FF7F66 legyen. A feladat megoldása során, a HTML fájlban 
+semmilyen módosítást nem hajthat végre. A betűk színe fehér legyen. 
+3. A láblécben helyezze a szöveget középre. 
+4. A media query-ket helyezze el egy olyan lekérdezésben, ami akkor hajtja végre a benne 
+foglalt media query-ket, ha böngésző támogatja a CSS-GRID-et. 
+5. Ha a böngésző legalább 27em széles, akkor a képek és a szövegek egymás mellett 
+helyezkedjenek el úgy, hogy a kép 8em széles legyen, a mellette található szöveg 
+automatikusan töltse ki a maradék rendelkezésre álló teret. 
+6. Állítsa be a cards osztályú elemek szélességét a repeat függvény használatával úgy, 
+hogy két 25em szélességű oszlop álljon rendelkezésére a képeknek, 65 és 45 em 
+képernyő szélesség esetében is. 
+7. A double osztályú képek 3 sort foglaljanak el az oldalon 65 és 45 em képernyő-szélesség 
+esetében is. 
+8. Ha a képernyő 65em széles: 
+1. Szelektálja ki a site osztályú elemet és állítsa be úgy a tulajdonságait és értékeit, 
+hogy két oldalt 15em szélesség álljon rendelkezésére a sidebar két twin elemének 
+az elhelyezkedéshez, középen pedig automatikus legyen a szélesség. 
+2. Állítsa be a masthead és main-nav osztályú elemeket, hogy az oldal teljes 
+szélességét kitöltsék. 
+3. Állítsa be a sidebar osztályú konténer két elemét úgy, hogy azok a képernyő két 
+szélén helyezkedjenek el.  
+4. Állítson be 1em távolságot a cards gyermek elemei között. 
+9. Ha a képernyő 27em széles, a képek és a szöveg két oszlopban helyezkedjen el egymás 
+mellett úgy, hogy a képnek 8em szélesség álljon rendelkezésre, a többi helyet 
+automatikusan töltse ki a szöveg. 
+
+
+/* 2. Sidebar twin elements styling */
+.sidebar .twin:nth-child(1) {
+    background-color: #2185C5;
+    color: white;
+}
+
+.sidebar .twin:nth-child(2) {
+    background-color: #FF7F66;
+    color: white;
+}
+
+/* 3. Footer text alignment */
+footer {
+    text-align: center;
+}
+
+/* 4. Media queries with CSS Grid feature detection */
+@supports (display: grid) {
+    /* 5. Layout for at least 27em width */
+    @media (min-width: 27em) {
+        .image-with-text {
+            display: grid;
+            grid-template-columns: 8em auto;
+            gap: 1em;
+        }
+    }
+
+    /* 6. Cards grid layout */
+    .cards {
+        display: grid;
+        grid-template-columns: repeat(2, 25em);
+    }
+
+    /* 7. Double class images spanning 3 rows */
+    .double {
+        grid-row: span 3;
+    }
+
+    /* 8. Layout for 65em screen width */
+    @media (min-width: 65em) {
+        /* 8.1 Site layout with sidebars */
+        .site {
+            display: grid;
+            grid-template-columns: 15em auto 15em;
+        }
+
+        /* 8.2 Masthead and main-nav full width */
+        .masthead, .main-nav {
+            grid-column: 1 / -1;
+        }
+
+        /* 8.3 Sidebar elements on opposite sides */
+        .sidebar {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        /* 8.4 Gap between card children */
+        .cards {
+            gap: 1em;
+        }
+    }
+
+    /* 9. Alternative layout for 27em width */
+    @media (min-width: 27em) {
+        .image-with-text {
+            display: grid;
+            grid-template-columns: 8em auto;
+        }
+    }
+}

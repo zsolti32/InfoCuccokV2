@@ -1,0 +1,207 @@
+AngularJS - JSON adatok megjelenítése - Segédlet vizsgához
+1. Alap HTML struktúra
+html
+<!DOCTYPE html>
+<html lang="hu" ng-app="myApp">
+<head>
+    <meta charset="UTF-8">
+    <title>Adatok megjelenítése</title>
+    <script src="angular.min.js"></script>
+    <link rel="stylesheet" href="bootstrap.min.css">
+</head>
+<body ng-controller="myCtrl">
+    <!-- Tartalom -->
+</body>
+</html>
+2. AngularJS alapbeállítás
+javascript
+<script>
+var app = angular.module('myApp', []);
+
+app.controller('myCtrl', function($scope, $http) {
+    $http.get("adatok.json")
+    .then(function(response) {
+        $scope.myData = response.data; // Az adatok tárolása
+    });
+});
+</script>
+3. Adatok megjelenítése ng-repeat-tel
+html
+<div ng-repeat="elem in myData">
+    <div class="card">
+        <img src="kepek/{{elem.kep}}">
+        <h3>{{elem.cim}}</h3>
+        <p>{{elem.leiras}}</p>
+    </div>
+</div>
+4. Fontos tudnivalók
+JSON fájl struktúra példa:
+json
+[
+    {
+        "kep": "kep1.jpg",
+        "cim": "Példa cím",
+        "leiras": "Ez egy leírás"
+    },
+    {
+        "kep": "kep2.jpg",
+        "cim": "Második cím",
+        "leiras": "Másik leírás"
+    }
+]
+Kulcsfontosságú elemek:
+ng-app="myApp" - Angular alkalmazás definiálása
+
+ng-controller="myCtrl" - Vezérlő hozzárendelése
+
+$http.get() - JSON adatok lekérése
+
+ng-repeat - Ismétlődő elem létrehozása
+
+{{ }} - Adatkötés a HTML-ben
+
+Hibaelhárítás:
+Ellenőrizd a konzolt hibákért
+
+Győződj meg róla, hogy:
+
+Az AngularJS betöltődik
+
+A JSON fájl elérhető
+
+A mezőnevek pontosak
+
+A képek elérési útja helyes
+
+5. Példa teljes kód
+html
+<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+    <title>Vizsga példa</title>
+    <script src="angular.min.js"></script>
+</head>
+<body ng-controller="myCtrl">
+    <h1>Adatok</h1>
+    <div ng-repeat="x in adatok">
+        <div>
+            <h2>{{x.nev}}</h2>
+            <p>Életkor: {{x.kor}}</p>
+        </div>
+    </div>
+
+    <script>
+    var app = angular.module('myApp', []);
+    app.controller('myCtrl', function($scope, $http) {
+        $http.get("adatok.json")
+        .then(function(response) {
+            $scope.adatok = response.data;
+        });
+    });
+    </script>
+</body>
+</html>
+6. Hasznos tippek vizsgához
+A változónevek legyenek beszédesek (pl. 'varos' városok listájánál)
+
+Mindig ellenőrizd a kapcsos zárójeleket és idézőjeleket
+
+A JSON fájl legyen érvényes formátumú (ellenőrizd jsonlint.com-on)
+
+Egyszerűbb feladatoknál is mindig használd a $http.then struktúrát
+
+Konzol.log-gal ellenőrizd, hogy megérkeztek-e az adatok
+
+
+Az i egy változó, ami az aktuális elemet reprezentálja a myWelcome tömbben az ng-repeat ciklus minden iterációjában. Ez egy úgynevezett ciklusváltozó.
+
+Részletes magyarázat
+Amikor ezt írod:
+
+html
+<div ng-repeat="i in myWelcome">
+Ez működik így:
+
+Az AngularJS végigmegy a myWelcome tömb összes elemén
+
+Minden egyes elemre létrehoz egy új példányt a HTML blokkból
+
+Az aktuális elemet elhelyezi az i változóban
+
+A blokkon belül minden i.-ra hivatkozás az aktuális elem tulajdonságaira mutat
+
+Miért kell az "i." elé?
+Az i. jelölés azért szükséges, mert:
+
+Kontextus megadása: Megmondja, hogy melyik objektum tulajdonságát kérjük
+
+Pontos hivatkozás: Egyértelművé teszi, hogy a myWelcome tömb aktuális eleméről van szó
+
+Scope hierarchia: Az AngularJS scope-jában egyértelműen azonosítja az adatforrást
+
+Példa a működésre
+Tegyük fel, hogy a myWelcome tömb ilyen:
+
+json
+[
+  {
+    "img": "kep1.jpg",
+    "title": "Oslo",
+    "body": "Főváros"
+  },
+  {
+    "img": "kep2.jpg",
+    "title": "Bergen",
+    "body": "Kikötőváros"
+  }
+]
+Az ng-repeat két iterációt fog végezni:
+
+Első iteráció:
+
+i = {"img": "kep1.jpg", "title": "Oslo", "body": "Főváros"}
+
+i.img = "kep1.jpg"
+
+i.title = "Oslo"
+
+i.body = "Főváros"
+
+Második iteráció:
+
+i = {"img": "kep2.jpg", "title": "Bergen", "body": "Kikötőváros"}
+
+i.img = "kep2.jpg"
+
+i.title = "Bergen"
+
+i.body = "Kikötőváros"
+
+Miért nem elég csak a mezőnév?
+Ha csak {{title}}-t írnál (i. nélkül):
+
+Az AngularJS a scope-ban keresné a title változót
+
+Nem lenne egyértelmű, hogy a tömb elemeire gondolsz
+
+Valószínűleg nem találna értéket (vagy más változót találna meg)
+
+Alternatív névhasználat
+Az i helyett bármilyen érvényes változónevet használhatsz:
+
+html
+<div ng-repeat="varos in myWelcome">
+  <img src="img/{{varos.img}}">
+  <h5>{{varos.title}}</h5>
+</div>
+Ez teljesen ekvivalens, csak a változó neve más (varos az i helyett).
+
+Összefoglalás
+Az i egy ciklusváltozó, ami a tömb aktuális elemét tartalmazza
+
+Az i. prefix szükséges, hogy pontosan meg tudd adni, melyik objektum melyik tulajdonságára gondolsz
+
+A változó neve tetszőleges lehet, de konzisztensnek kell maradnia a blokkon belül
+
+
+
