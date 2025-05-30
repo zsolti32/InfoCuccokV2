@@ -1,0 +1,55 @@
+Átlag számítás (Average)
+
+double average = numbers.Average();
+Console.WriteLine($"Átlag: {average}");
+
+Minimum érték (Min)
+
+int min = numbers.Min();
+Console.WriteLine($"Minimum: {min}");
+
+Maximum érték (Max)
+
+int max = numbers.Max();
+Console.WriteLine($"Maximum: {max}");
+
+Összegzés (Sum)
+
+int sum = numbers.Sum();
+Console.WriteLine($"Összeg: {sum}");
+
+Páros számok szűrése (Where)
+
+var evenNumbers = numbers.Where(n => n % 2 == 0);
+Console.WriteLine("Páros számok: " + string.Join(", ", evenNumbers));
+
+Sorbarendezés (OrderBy, OrderByDescending)
+
+var ascending = numbers.OrderBy(n => n);
+Console.WriteLine("Növekvő sorrend: " + string.Join(", ", ascending));
+
+var descending = numbers.OrderByDescending(n => n);
+Console.WriteLine("Csökkenő sorrend: " + string.Join(", ", descending));
+
+Duplikátumok kiszűrése (Distinct)
+
+List<int> dupNumbers = new List<int> { 4, 7, 1, 9, 4, 3, 1 };
+var uniqueNumbers = dupNumbers.Distinct();
+Console.WriteLine("Egyedi értékek: " + string.Join(", ", uniqueNumbers));
+
+Megszámolás feltétellel (Count)
+
+int countAbove5 = numbers.Count(n => n > 5);
+Console.WriteLine($"5-nél nagyobb számok száma: {countAbove5}");
+
+Első és utolsó elem kiválasztása (First, Last)
+
+int first = numbers.First();
+int last = numbers.Last();
+Console.WriteLine($"Első elem: {first}, Utolsó elem: {last}");
+
+Egyedi feltétel ellenőrzése (Any, All)
+
+bool hasEven = numbers.Any(n => n % 2 == 0);
+bool allPositive = numbers.All(n => n > 0);
+Console.WriteLine($"Van páros szám: {hasEven}, Minden szám pozitív: {allPositive}");
